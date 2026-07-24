@@ -278,7 +278,7 @@ input:focus-visible {
   border-radius: 2px;
   transition: transform var(--t-fast), opacity var(--t-fast);
 }
-.logo-svg{
+svg{
   width: 40px;
   height: 40px;
 }
