@@ -295,7 +295,7 @@ svg{
   overflow: hidden;
   transition: max-height var(--t-med);
 }
-.mobile-menu.is-open { max-height: 420px; }
+.mobile-menu.is-open { max-height: fit-content; }
 .mobile-menu a {
   padding: 0.9rem 1.5rem;
   font-weight: 500;
